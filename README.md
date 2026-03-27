@@ -1,4 +1,4 @@
-# latex-vim
+# zrktex
 
 A vim-like TUI text editor built specifically for LaTeX. Write your documents in a modal editor with syntax highlighting and command autocomplete, then compile straight to PDF without leaving the terminal.
 
@@ -48,8 +48,8 @@ The editor tries `pdflatex` first, then `latexmk`, then `tectonic`. Any one of t
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/nlzrk/latex-vim
-cd latex-vim
+git clone https://github.com/nlzrk/zrktex
+cd zrktex
 ```
 
 **2. Install Python dependencies**
